@@ -7,5 +7,5 @@ https://isarn.github.io/isarn-algebra-api/latest/api/
 ### How to use in your project
 
 ``` scala
-libraryDependencies += "org.isarnproject" %% "isarn-algebra-api" % "0.0.2"
+libraryDependencies += "org.isarnproject" %% "isarn-algebra-api" % "0.0.3"
 ```
